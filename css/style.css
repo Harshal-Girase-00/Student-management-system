@@ -1,0 +1,8 @@
+@media (max-width: 991px) {
+    .custom-banner {
+        height: 50vh !important; /* Mobile height 50% */
+    }
+}
+
+
+
